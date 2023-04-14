@@ -1,2 +1,2 @@
 # ProgSolComp
-O repositório "ProgSolComp" foi criado para registrar meu progresso na disciplina de Programação de Soluções Computacionais. Aqui, compartilho códigos, projetos e exercícios desenvolvidos ao longo do curso. A ideia é documentar minha evolução e ajudar outros interessados na área. Explore e contribua!
+O repositório "ProgSolComp" foi criado para registrar meu progresso na disciplina de Programação de Soluções Computacionais. Aqui, compartilho códigos, projetos e exercícios desenvolvidos ao longo do curso, incluindo arquivos e materiais de apoio do Prof. Fabrício Curvello e materiais feitos e/ou achados por mim, João Victor Grille Santiago. A ideia é documentar minha evolução e ajudar outros interessados na área. Explore e contribua!
