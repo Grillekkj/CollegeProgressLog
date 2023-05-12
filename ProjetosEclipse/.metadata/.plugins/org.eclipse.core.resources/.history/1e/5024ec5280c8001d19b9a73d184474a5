@@ -1,0 +1,23 @@
+package lista05_1;
+
+import util.Teclado;
+
+//Elaborar um programa que apresente o valor de uma potência de uma base qualquer (Variável b) elevada a um 
+//expoente qualquer (Variável e), ou seja, de b elevado a e. (Sem usar Math.pow();)
+
+public class Questao11 {
+
+	public static void main(String[] args) {
+		int b, e, prod, cont;
+		b = Teclado.lerInt("Digite uma base qualquer.");
+		e = Teclado.lerInt("Digite um expoente qualquer.");
+		cont = 1;
+		prod = 1;
+		
+		while (cont <= e) {
+			prod = prod * b;
+			cont++
+		}
+	}
+
+}
