@@ -1,0 +1,25 @@
+package lista05_1;
+
+import util.Teclado;
+
+/*
+ * Desenvolver um programa que imprima a tabuada de 3 a 6.
+ */
+
+public class Questao13 {
+
+    public static void main(String[] args) {
+	int a = 3, b;
+	while (a <= 6) {
+	    b = 0;
+	    System.out.println("\nTabuada do " + a + ":\n");
+	    while (b <= 10) {
+		System.out.println( a + "X" + b + " = " + (a*b) + ".");
+		b++;
+	    }
+	    
+	    a++;
+	}
+    }
+
+}

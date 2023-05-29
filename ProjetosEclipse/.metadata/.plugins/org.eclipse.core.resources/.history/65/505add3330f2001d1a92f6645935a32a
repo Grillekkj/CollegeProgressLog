@@ -1,0 +1,8 @@
+private void gerarMao() {
+        Random g = new Random();
+        for (int i = 0; i <= 7; i++) {
+            var gg = g.nextInt(JogoDomino.bancoDePeças.size());
+            mao.add(JogoDomino.bancoDePeças.get(gg));
+            JogoDomino.bancoDePeças.remove(gg);
+        }
+    }

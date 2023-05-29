@@ -1,0 +1,11 @@
+public class gerador {
+    public static void main(String[] args) {
+        // Laço externo para a primeira metade das peças
+        for (int i = 0; i <= 6; i++) {
+            // Laço interno para a segunda metade das peças
+            for (int j = i; j <= 6; j++) {
+                System.out.println("(" + i + "|" + j + ")");
+            }
+        }
+    }
+}

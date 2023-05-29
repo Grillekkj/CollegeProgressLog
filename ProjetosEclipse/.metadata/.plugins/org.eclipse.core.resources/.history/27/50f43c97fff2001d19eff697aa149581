@@ -1,0 +1,14 @@
+package lista05_3;
+
+/*
+ * Desenvolver um programa que apresente o total da soma de n números inteiros
+ * do número 1 até n, onde n é um valor informado pelo usuário.
+ */
+
+public class Questao02 {
+
+    public static void main(String[] args) {
+	
+    }
+
+}

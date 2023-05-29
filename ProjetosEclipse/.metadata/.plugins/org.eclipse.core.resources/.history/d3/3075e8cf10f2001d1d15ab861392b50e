@@ -1,0 +1,18 @@
+package lista05_2;
+
+/*
+ * Desenvolver um programa que apresente os quadrados dos números inteiros de 2
+ * a 50.
+ */
+
+public class Questao06 {
+
+    public static void main(String[] args) {
+	int cont = 2;
+	do {
+	    System.out.println(cont + " elevado ao quadrado é: " + (Math.pow(cont, 2)));
+	    cont++;
+	} while (cont <=50);
+    }
+
+}
